@@ -1,3 +1,4 @@
+#main-content {
 * {
     box-sizing: border-box;
 }
@@ -100,4 +101,6 @@ body {
         float: none;
         width: 100%;
     }
+}
+
 }
