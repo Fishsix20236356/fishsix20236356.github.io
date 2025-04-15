@@ -77,9 +77,9 @@
                     <div class="author-info" style="background-image:url(images/background/3.jpg)">
                         <div class="image"><img src="images/resource/user.png" alt=""></div>
                         <div class="author">
-                            <h3>Mahira Rashid</h3>
+                            <h3> 陆韬宇</h3>
                             <div class="designation">
-                                Hi i’m
+                                Hi i am
                                 <div class="typing-title">
                                     <p>a <strong>CQU student(CQUer).</strong></p>
                                     <p>a <strong>programmer.</strong></p>
@@ -116,7 +116,7 @@
                             <div class="card-inner wow fadeInUp" data-wow-duration="2s">
                                 <div class="image"><img src="images/resource/user.png" alt=""></div>
                                 <div class="author">
-                                    <h3>陆韬宇</h3>
+                                    <h3> 陆韬宇</h3>
                                     <div class="designation">
                                         Hi i'm
                                         <div class="typing-title">
@@ -129,7 +129,8 @@
                                 </div>
                                 <div class="text">我是来自重庆大学UC联合学院电气01班的陆韬宇，欢迎来到我的空间</div>
                                 <div class="link-btn">
-                                    <a href="#" class="theme-btn btn-style-one">下载我的简历</a>
+                                    <a href="images/cv.pdf" class="theme-btn btn-style-one">下载我的简历</a>
+                                    <!--###################################################################-->
                                     <a href="#" class="theme-btn btn-style-two">访问我的秘密基地</a>
                                 </div>
                                 <ul class="social-icon-two">
@@ -153,12 +154,12 @@
                                             <ul class="list-style-one">
                                                 <li><strong>Name:</strong>  陆韬宇</li>
                                                 <li><strong>Phone:</strong>  13350396440</li>
-                                                <li><strong>Address:</strong>  重庆市沙坪坝区大学城南路55号</li>
+                                                <li><strong>Address:</strong>  重庆大学虎溪校区</li>
                                             </ul>
                                         </div>
                                         <div class="col-md-6">
                                             <ul class="list-style-one">
-                                                <li><strong>Email:</strong>  lutaoyu@stu.cqu.edu.cn & 3899613198@qq.com</li>
+                                                <li><strong>Email:</strong>  lutaoyu@stu.cqu.edu.cn <br> 3899613198@qq.com</li>
                                             </ul>
                                         </div>
                                     </div>
@@ -247,24 +248,24 @@
                                             <div class="timeline-block">
                                                 <div class="inner-box">
                                                     <h4>SRTP(大学校园学生才艺技能社交平台的研发)</h4>
-                                                    <div class="date"><span>2023.10-2024.3</span>  / Google inc.</div>
-                                                    <div class="text">Exceptur sint occaecat cupidatat non proident sunt culpa. </div>
+                                                    <div class="date"><span>2023.10-2024.3</span>  / CQU</div>
+                                                    <div class="text">使用JavaScript开发小程序平台，准确把握市场动态</div>
                                                 </div>
                                             </div>
 
                                             <div class="timeline-block">
                                                 <div class="inner-box">
                                                     <h4>重庆大学视觉实验室{三维重建}</h4>
-                                                    <div class="date"><span>2024.07-2025.04 </span> / Facebook inc.</div>
-                                                    <div class="text">Exceptur sint occaecat cupidatat non proident sunt culpa. </div>
+                                                    <div class="date"><span>2024.07-2025.04 </span> / CQU</div>
+                                                    <div class="text">成功复现3D Gaussian Splatting及Street Gaussian、S3Gaussian、HUGS、Driving Gaussian等模型 </div>
                                                 </div>
                                             </div>
 
                                             <div class="timeline-block">
                                                 <div class="inner-box">
                                                     <h4>市（国）创(大学生创新创业计划){时间序列}</h4>
-                                                    <div class="date"><span>2024.10-2025.12 </span>  / airbnb inc.</div>
-                                                    <div class="text">Exceptur sint occaecat cupidatat non proident sunt culpa. </div>
+                                                    <div class="date"><span>2024.10-2025.12 </span>  / CQU</div>
+                                                    <div class="text">对time-LLM模型改进，将重编程机制与语义对齐机制整合进时序数据预测系统 </div>
                                                 </div>
                                             </div>
 
@@ -343,7 +344,7 @@
                                                 </div>
                                             </figure>
                                             <div class="caption-title">
-                                                <h3><a href="https://zju3dv.github.io/street_gaussians/">our work refer to street gaussian</a></h3>
+                                                <h4><a href="https://zju3dv.github.io/street_gaussians/">our work refer to street gaussian</a></h4>
                                                 <span>dynamic reconstruction,gaussian splatting</span>
                                             </div>
                                         </div>
