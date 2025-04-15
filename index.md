@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8">
@@ -56,7 +56,7 @@
                             <li class="current"><a href="#home">Home</a></li>
                             <li><a href="#about">About</a></li>
                             <li><a href="#resume">Resume</a></li>
-                            <li><a href="#services">Services</a></li>
+                            <li><a href="#services">Awards</a></li>
                             <li><a href="#work">Works</a></li>
                             <li><a href="#blog">Blog</a></li>
                             <li><a href="#contact">Contact</a></li>
@@ -81,21 +81,20 @@
                             <div class="designation">
                                 Hi i’m
                                 <div class="typing-title">
-                                    <p>a <strong>web developer.</strong></p>
-                                    <p>a <strong>web Designer.</strong></p>
+                                    <p>a <strong>CQU student(CQUer).</strong></p>
+                                    <p>a <strong>programmer.</strong></p>
                                     <p>a <strong>photographer.</strong></p>
                                 </div>
                                 <span class="typed-title"></span>
                             </div>
                         </div>
                         <div class="link-btn">
-                            <a href="http://www.17sucai.com/" class="theme-btn btn-style-one">Download CV</a>
+                            <a href="images/cv.pdf" class="theme-btn btn-style-one">Download CV</a>
                         </div>
                         <ul class="social-icon-two">
-                            <li><a href="#"><span class="fa fa-facebook"></span></a></li>
-                            <li><a href="#"><span class="fa fa-twitter"></span></a></li>
-                            <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
-                            <li><a href="#"><span class="fa fa-pinterest"></span></a></li>
+                            <li><a href="images/qrcode/wechat-qrcode.jpg" target="_blank" title="微信二维码"><span class="fa fa-weixin"></span></a></li>
+                            <li><a href="images/qrcode/qq-qrcode.jpg" target="_blank" title="QQ二维码"><span class="fa fa-qq"></span></a></li>
+                            <li><a href="images/qrcode/tiktok-qrcode.jpg" target="_blank" title="抖音二维码"><span class="fa fa-tiktok"></span></a></li>
                         </ul>
                     </div>
                     <div class="card-inner-box">
@@ -134,10 +133,9 @@
                                     <a href="#" class="theme-btn btn-style-two">访问我的秘密基地</a>
                                 </div>
                                 <ul class="social-icon-two">
-                                    <li><a href="images/qrcode/wechat-qrcode.jpg" target="_blank" title="微信二维码"><span class="fa-brands fa-weixin"></span></a></li>
-                                    <li><a href="images/qrcode/qq-qrcode.jpg" target="_blank" title="QQ二维码"><span class="fa-brands fa-qq"></span></a></li>
-                                    <li><a href="https://www.zhihu.com/people/liu-yue-tian-36-83"><span class="fa-brands fa-zhihu"></span></a></li>
-                                    <li><a href="images/qrcode/tiktok-qrcode.jpg" target="_blank" title="抖音二维码"><span class="fa-brands fa-tiktok"></span></a></li>
+                                    <li><a href="images/qrcode/wechat-qrcode.jpg" target="_blank" title="微信二维码"><span class="fa fa-weixin"></span></a></li>
+                                    <li><a href="images/qrcode/qq-qrcode.jpg" target="_blank" title="QQ二维码"><span class="fa fa-qq"></span></a></li>
+                                    <li><a href="images/qrcode/tiktok-qrcode.jpg" target="_blank" title="抖音二维码"><span class="fa fa-tiktok"></span></a></li>
                                 </ul>
                             </div>
                             
@@ -390,7 +388,7 @@
                                                 </a>                                
                                             </div>
                                         </div>
-                                        <div class="date"><strong>02</strong> <br>2025</div>
+                                        <div class="date"><strong>Feb</strong> <br>2025</div>
                                         <div class="lower-content">
                                             <h4><a href="blog-2.html">有趣的想法</a></h4>
                                             <div class="post-meta">by Mr.AlexFish  /  <span>thinking</span></div>
@@ -408,10 +406,10 @@
                                                 </a>                                
                                             </div>
                                         </div>
-                                        <div class="date"><strong>06</strong> <br>Sep</div>
+                                        <div class="date"><strong>Feb</strong> <br>2025</div>
                                         <div class="lower-content">
                                             <h4><a href="blog-3.html">三维重建与时间序列</a></h4>
-                                            <div class="post-meta">by Mr.Fishsix  /  <span>Search</span></div>
+                                            <div class="post-meta">by Mr.Fishsix  /  <span>search</span></div>
                                         </div>
                                     </div>
                                 </div>
