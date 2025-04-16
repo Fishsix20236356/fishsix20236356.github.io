@@ -360,6 +360,11 @@ img{
 }
 
 
+.card-outer .card-wrapper {
+    width: 90vw; /* This sets it to 90% of the viewport width */
+    max-width: 1400px; /* Optional: sets a maximum width */
+    margin: 0 auto; /* Centers the card wrapper */
+}
 /*** 
 
 ====================================================================
