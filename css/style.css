@@ -1936,21 +1936,3 @@ img{
     opacity: 1 !important;
     transform: translateX(10px);
 }
-
-
-/* Override the container width */
-.card-outer .container {
-    width: 90% !important;
-    max-width: 1400px !important;
-}
-
-/* Make sure the card inner box expands properly */
-.card-outer .card-inner-box {
-    width: 100% !important;
-    max-width: 100% !important;
-}
-
-/* Ensure card items expand to fill available space */
-.card-item {
-    max-width: none !important;
-}
