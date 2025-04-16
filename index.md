@@ -131,7 +131,7 @@
                                 <div class="link-btn">
                                     <a href="images/cv.pdf" class="theme-btn btn-style-one">下载我的简历</a>
                                     <!--###################################################################-->
-                                    <a href="#" class="theme-btn btn-style-two">访问我的秘密基地</a>
+                                    <a href="https://fishsix20236356.github.io/middlepage/" class="theme-btn btn-style-two">访问我的秘密基地</a>
                                 </div>
                                 <ul class="social-icon-two">
                                     <li><a href="images/qrcode/wechat-qrcode.jpg" target="_blank" title="微信二维码"><span class="fa fa-weixin"></span></a></li>
