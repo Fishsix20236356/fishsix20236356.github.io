@@ -230,7 +230,7 @@
                                                 <div class="inner-box">
                                                     <h4>本科阶段</h4>
                                                     <div class="date"><span>2023-2028</span> / 重庆大学</div>
-                                                    <div class="text">电气工程及其自动化专业，爱好旅行,DL与coding,关注时间序列与三维重建领域</div>
+                                                    <div class="text">爱好旅行,DL与coding,关注时间序列与三维重建领域</div>
                                                 </div>
                                             </div>
 
