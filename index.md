@@ -127,7 +127,7 @@
                                         <span class="typed-title"></span>
                                     </div>
                                 </div>
-                                <div class="text">我是来自重庆大学UC联合学院电气01班的陆韬宇，欢迎来到我的空间</div>
+                                <div class="text">我是来自重庆大学的陆韬宇，欢迎来到我的空间</div>
                                 <div class="link-btn">
                                     <a href="images/cv.pdf" class="theme-btn btn-style-one">下载我的简历</a>
                                     <!--###################################################################-->
@@ -147,14 +147,13 @@
                         <div class="card-about card-item" id="about" style="background-image:url(images/background/2.jpg)">
                             <div class="card-inner">
                                 <h4 class="title">About Me</h4>
-                                <div class="text">陆韬宇，重庆大学UC学院2023级电气1班，对深度学习技术，尤其是三维重建与时间序列预测领域感兴趣。</div>
+                                <div class="text">陆韬宇，CQUer，对深度学习技术，尤其是三维重建与时间序列预测领域感兴趣。</div>
                                 <div class="info-list">
                                     <div class="row">
                                         <div class="col-md-6">
                                             <ul class="list-style-one">
                                                 <li><strong>Name:</strong>  陆韬宇</li>
                                                 <li><strong>Phone:</strong>  13350396440</li>
-                                                <li><strong>Address:</strong>  重庆大学虎溪校区</li>
                                             </ul>
                                         </div>
                                         <div class="col-md-6">
