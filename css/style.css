@@ -360,11 +360,6 @@ img{
 }
 
 
-.card-outer .card-wrapper {
-    width: 90vw; /* This sets it to 90% of the viewport width */
-    max-width: 1400px; /* Optional: sets a maximum width */
-    margin: 0 auto; /* Centers the card wrapper */
-}
 /*** 
 
 ====================================================================
@@ -1940,4 +1935,22 @@ img{
 .nicescroll-rails.nicescroll-rails-vr {
     opacity: 1 !important;
     transform: translateX(10px);
+}
+
+
+/* Override the container width */
+.card-outer .container {
+    width: 90% !important;
+    max-width: 1400px !important;
+}
+
+/* Make sure the card inner box expands properly */
+.card-outer .card-inner-box {
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+/* Ensure card items expand to fill available space */
+.card-item {
+    max-width: none !important;
 }
